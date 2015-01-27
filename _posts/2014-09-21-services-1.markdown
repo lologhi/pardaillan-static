@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Bienvenue sur le site de Pardaillan
+description: |
+  <p class="lead">Et merci de prendre le temps de nous rencontrer !<br><br>Fils, petit fils, arrière petit fils de viticulteur, je suis heureux de faire l'un des plus vieux métier du monde, produire du raisin pour élaborer du vin.<br><br>Les bottes profondément ancrées dans le terroir, la mémoire farouchement attachée au "savoir faire" transmis par les anciens, à l'affût des progrès techniques, je n'ai d'autre ambition, année après année, que de faire naitre un millésime capable de vous offrir un "grand" plaisir et un "petit" bonheur !<br><br>Nourriture spirituelle, le vin rassemble, réconcilie et unit ceux qui le partage dans une même émotion. Excellent pour la santé ("le vin est la plus saine des boissons" disait Pasteur), le vin a donc pour vocation d'être dégusté , offert et partagé autour d'une bonne table !<br><br>"Il faut-être toujours ivre" disait Baudelaire "pour ne pas sentir l'horrible fardeau du temps qui brise vos épaules et vous penche vers la terre ... ennivrez-vous, ennivrez-vous sans trêve ... mais de quoi ? ... de vin, de poésie ou d'amour à votre guise ...!"<br><br>Thierry de Roquefeuil</p>
+---
