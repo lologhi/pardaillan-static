@@ -2,12 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 
 description: |
-  <p class="lead">Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by <a
-  target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit
-  their website to download some of their awesome, free photoshop
-  actions!</p>
+  <p class="lead">Les bottes profondément ancrées dans le terroir, la mémoire farouchement attachée au "savoir faire" transmis par les anciens, à l'affût des progrès techniques, je n'ai d'autre ambition, année après année, que de faire naitre un millésime capable de vous offrir un "grand" plaisir et un "petit" bonheur !</p>
 
 ---

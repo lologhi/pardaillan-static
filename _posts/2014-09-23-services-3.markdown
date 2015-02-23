@@ -2,11 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title:
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
-
+  <p class="lead">Nourriture spirituelle, le vin rassemble, réconcilie et unit ceux qui le partage dans une même émotion. Excellent pour la santé ("le vin est la plus saine des boissons" disait Pasteur), le vin a donc pour vocation d'être dégusté , offert et partagé autour d'une bonne table !<br><br>"Il faut-être toujours ivre" disait Baudelaire "pour ne pas sentir l'horrible fardeau du temps qui brise vos épaules et vous penche vers la terre ... ennivrez-vous, ennivrez-vous sans trêve ... mais de quoi ? ... de vin, de poésie ou d'amour à votre guise ...!"<br><br>Thierry de Roquefeuil</p>
 ---
